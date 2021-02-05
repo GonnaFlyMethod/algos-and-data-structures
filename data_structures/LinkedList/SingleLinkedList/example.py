@@ -1,11 +1,11 @@
 import time
 import random
-from LinkedList import LinkedList
+from SingleLinkedList import SingleLinkedList
 
 
 TIME_TO_WAIT = 12
 
-new_linked_list = LinkedList()
+new_linked_list = SingleLinkedList()
 
 # Appending new values to the linked list
 print("Appending new values...")

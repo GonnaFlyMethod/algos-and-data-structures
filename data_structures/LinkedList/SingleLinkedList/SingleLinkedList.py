@@ -9,7 +9,7 @@ class Node:
 		return f"{self.data}"
 	
 
-class LinkedList:
+class SingleLinkedList:
 
 	def __init__(self):
 		self.head = Node()
