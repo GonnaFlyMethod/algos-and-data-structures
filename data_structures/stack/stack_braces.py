@@ -48,5 +48,6 @@ def is_balanced(string_to_check: str):
 		return True
 	return False
 
+# Example
 print(is_balanced("((((((((((([])))))))))))[]()])("))
 	
