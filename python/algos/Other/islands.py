@@ -1,15 +1,15 @@
 # "0" is water
 # "1" is ground
 
-# You will get an 2 D array, find number of islands
-# For example here:
+# You will get a 2 D array, count number of islands
+# For example, here:
 
 # [["1","1","0","1","0"],
 #  ["1","1","0","1","1"],
 #  ["0","0","1","0","0"],
 #  ["1","1","1","0","1"]]
 
-# There are 4 islands
+# there are 4 islands
 
 
 class Solution:
