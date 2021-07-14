@@ -13,8 +13,7 @@ class SingleLinkedList:
 
 	def __init__(self):
 		self.head = Node()
-	
-	
+
 	def append(self, data) -> None:
 		new_node = Node(data)
 		cur_node = self.head
