@@ -28,8 +28,6 @@ void print_array(T arr[], int size) {
 
     _iterate_over<T>(arr, size, func_to_perform);
 }
-//
-// TODO: using tempalates
 
 template <class T>
 class CustomVector {
